@@ -1,0 +1,22 @@
+{
+    "db" : {
+        "driver" : "mysql",
+        "host" : "",
+        "port" : "",
+        "username" : "",
+        "password" : "",
+        "dbname" : ""
+    },
+
+    "title" : "Demo Project",
+    "url" : "",
+    "jwt_key" : "",
+    "timezone" : "America/New_York",
+
+    "users" : {
+        "demo" : ""
+    },
+
+    "pagination_limit" : 50
+
+}

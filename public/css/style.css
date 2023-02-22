@@ -1,0 +1,27 @@
+h2 {
+  font-size: 1.4em;
+}
+
+table {
+  font-family: 'Yantramanav', sans-serif;
+}
+
+
+
+
+.starRate {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url('/images/star.png');
+  background-size: cover;
+  cursor: pointer;
+}
+
+.starRate.active {
+  background-image: url('/images/star_active.png');
+}
+
+.starRate:hover {
+  background-image: url('/images/star_hover.png');
+}

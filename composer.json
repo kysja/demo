@@ -1,0 +1,19 @@
+{
+    "name": "k5/demo",
+    "authors": [
+        {
+            "name": "Alex U",
+            "email": "info@alexu.dev"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+
+    "require": {
+        "firebase/php-jwt": "^6.4"
+    }
+}

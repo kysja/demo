@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<IAPDIndividualReport GenOn="2023-02-19">
+  <Indvls>
+    <Indvl>
+      <Info lastNm="ROWE" firstNm="ERNEST" midNm="JAMES" indvlPK="2423195" actvAGReg="Y" link="https://adviserinfo.sec.gov/individual/summary/2423195"/>
+      <OthrNms>
+        <OthrNm lastNm="ROWE" firstNm="JAMIE"/>
+      </OthrNms>
+      <CrntEmps>
+        <CrntEmp orgNm="SPC" orgPK="110692" str1="300 PARKLAND PLAZA" city="ANN ARBOR" state="MI" cntry="United States" postlCd="48103">
+          <CrntRgstns>
+            <CrntRgstn regAuth="AZ" regCat="RA" st="APPROVED" stDt="2021-12-23"/>
+            <CrntRgstn regAuth="CO" regCat="RA" st="APPROVED" stDt="2020-09-03"/>
+            <CrntRgstn regAuth="NC" regCat="RA" st="APPROVED" stDt="2022-01-10"/>
+            <CrntRgstn regAuth="PA" regCat="RA" st="APPROVED" stDt="2022-03-24"/>
+            <CrntRgstn regAuth="TX" regCat="RA" st="APPROVED_RES" stDt="2022-03-10"/>
+            <CrntRgstn regAuth="WA" regCat="RA" st="APPROVED" stDt="2022-08-09"/>
+          </CrntRgstns>
+          <BrnchOfLocs>
+            <BrnchOfLoc str1="838 Grand Avenue" city="Grand Junction" state="CO" cntry="United States" postlCd="81501"/>
+            <BrnchOfLoc str1="300 PARKLAND PLAZA" city="ANN ARBOR" state="MI" cntry="United States" postlCd="48103"/>
+          </BrnchOfLocs>
+        </CrntEmp>
+      </CrntEmps>
+      <Exms>
+        <Exm exmCd="S63" exmNm="Uniform Securities Agent State Law Examination" exmDt="1996-02-02"/>
+      </Exms>
+      <Dsgntns>
+        <Dsgntn dsgntnNm="Chartered Financial Consultant"/>
+      </Dsgntns>
+      <PrevRgstns>
+        <PrevRgstn orgNm="SUNSET FINANCIAL SERVICES, INC." orgPK="3538" regBeginDt="2001-07-05" regEndDt="2009-02-13">
+          <BrnchOfLocs>
+            <BrnchOfLoc city="GRAND JUNCTION" state="CO"/>
+            <BrnchOfLoc city="GRAND JUNCTION" state="CO"/>
+            <BrnchOfLoc city="PALISADE" state="CO"/>
+            <BrnchOfLoc city="WESTMINSTER" state="CO"/>
+          </BrnchOfLocs>
+        </PrevRgstn>
+        <PrevRgstn orgNm="SECURITIES AMERICA ADVISORS, INC." orgPK="110518" regBeginDt="2015-10-27" regEndDt="2020-09-02">
+          <BrnchOfLocs>
+            <BrnchOfLoc city="GRAND JUNCTION" state="CO"/>
+          </BrnchOfLocs>
+        </PrevRgstn>
+        <PrevRgstn orgNm="INTERVEST INTERNATIONAL, INC." orgPK="111516" regBeginDt="2012-11-06" regEndDt="2015-11-02">
+          <BrnchOfLocs>
+            <BrnchOfLoc city="GRAND JUNCTION" state="CO"/>
+            <BrnchOfLoc city="COLORADO SPRINGS" state="CO"/>
+            <BrnchOfLoc city="GRAND JUNCTION" state="CO"/>
+          </BrnchOfLocs>
+        </PrevRgstn>
+      </PrevRgstns>
+      <EmpHss>
+        <EmpHs fromDt="01/2007" orgNm="DYNAMIC FINANCIAL" city="GRAND JUNCTION" state="CO"/>
+        <EmpHs fromDt="07/2009" toDt="10/2015" orgNm="INTERVEST INTERNATIONAL EQUITIES CORP" city="COLORADO SPRINGS" state="CO"/>
+        <EmpHs fromDt="09/2020" orgNm="SIGMA PLANNING CORPORATION" city="ANN ARBOR" state="MI"/>
+        <EmpHs fromDt="10/2015" toDt="09/2020" orgNm="SECURITIES AMERICA INC" city="GRAND JUNCTION" state="CO"/>
+        <EmpHs fromDt="10/2015" toDt="09/2020" orgNm="SECURITIES AMERICA ADVISORS" city="GRAND JUNCTION" state="CO"/>
+        <EmpHs fromDt="09/2020" orgNm="PARKLAND SECURITIES LLC" city="ANN ARBOR" state="MI"/>
+      </EmpHss>
+      <OthrBuss>
+        <OthrBus desc="***DBA - DYNAMIC FINANCIAL SERVICES LLC &#xA;POSITION: President NATURE: I sell life insurance, long term care insurance and disability income insurance INVESTMENT RELATED: No NUMBER OF HOURS: 10 SECURITIES TRADING HOURS: 10 START DATE: 01/01/2001 ADDRESS: 838 Grand Avenue, Grand Junction CO 81501 DESCRIPTION: selling fixed annuity and fixed life insurance products, long term care insurance and disability insurance &#xA; &#xA;***ERNEST J. ROWE REVOCABLE LIVING TRUST &#xA;POSITION: I am the trustte NATURE: The Ernest James Rowe Revocable Living Trust, is my own personal trust that I am the trustee of. I have placed my home and bank accounts, investment accounts and life insurance in this trust. INVESTMENT RELATED: Yes NUMBER OF HOURS: 1 SECURITIES TRADING HOURS: 1 START DATE: 03/01/2007 ADDRESS: 428 Montero Street, Grand Junction CO 81507 DESCRIPTION: Managing my own personal investments and life insurance in this trust &#xA; &#xA;As an independently licensed insurance agent, I am appointed with various insurance companies."/>
+      </OthrBuss>
+      <DRPs>
+        <DRP hasRegAction="N" hasCriminal="N" hasBankrupt="N" hasCivilJudc="N" hasBond="N" hasJudgment="N" hasInvstgn="N" hasCustComp="Y" hasTermination="Y"/>
+      </DRPs>
+    </Indvl>
+    <Indvl>
+      <Info lastNm="FLOREN" firstNm="WHITNEY" midNm="HOWARD" indvlPK="2472118" actvAGReg="Y" link="https://adviserinfo.sec.gov/individual/summary/2472118"/>
+      <OthrNms>
+        <OthrNm lastNm="FLOREN" firstNm="WHITENY" midNm="H"/>
+      </OthrNms>
+      <CrntEmps>
+        <CrntEmp orgNm="ROYAL ALLIANCE ASSOCIATES, INC." orgPK="23131" str1="10 EXCHANGE PLACE" str2="SUITE 1410" city="JERSEY CITY" state="NJ" cntry="United States" postlCd="07302">
+          <CrntRgstns>
+            <CrntRgstn regAuth="FL" regCat="RA" st="APPROVED" stDt="2018-12-13"/>
+            <CrntRgstn regAuth="IN" regCat="RA" st="APPROVED" stDt="2018-11-02"/>
+            <CrntRgstn regAuth="MA" regCat="RA" st="APPROVED" stDt="2018-11-23"/>
+          </CrntRgstns>
+          <BrnchOfLocs>
+            <BrnchOfLoc str1="462 PLAIN STREET" city="MARSHFIELD" state="MA" cntry="United States" postlCd="02050"/>
+          </BrnchOfLocs>
+        </CrntEmp>
+      </CrntEmps>
+      <Exms>
+        <Exm exmCd="S63" exmNm="Uniform Securities Agent State Law Examination" exmDt="1996-05-17"/>
+        <Exm exmCd="S65" exmNm="Uniform Investment Adviser Law Examination" exmDt="2000-12-11"/>
+      </Exms>
+      <Dsgntns/>
+      <PrevRgstns>
+        <PrevRgstn orgNm="SIGNATOR INVESTORS, INC." orgPK="468" regBeginDt="2017-08-23" regEndDt="2018-11-02">
+          <BrnchOfLocs>
+            <BrnchOfLoc city="BOURNE" state="MA"/>
+            <BrnchOfLoc city="NEEDHAM HEIGHTS" state="MA"/>
+            <BrnchOfLoc city="MARSHFIELD" state="MA"/>
+          </BrnchOfLocs>
+        </PrevRgstn>
+      </PrevRgstns>
+      <EmpHss>
+        <EmpHs fromDt="02/2009" toDt="04/2013" orgNm="UBS FINANCIAL SERVICES INC" city="HYANNIS" state="MA"/>
+        <EmpHs fromDt="04/2013" toDt="11/2018" orgNm="JHFN SII" city="NEEDHAM HEIGHTS" state="MA"/>
+        <EmpHs fromDt="04/2013" orgNm="CENTINEL FINANCIAL GROUP, LLC" city="NEEDHAM HEIGHTS" state="MA"/>
+        <EmpHs fromDt="11/2018" orgNm="ROYAL ALLIANCE ASSOCIATES, INC." city="MARSHFIELD" state="MA"/>
+      </EmpHss>
+      <OthrBuss>
+        <OthrBus desc="1. INSURANCE BROKER: LIFE, ANNUITIES, LTC, DI , SUNLIFE/HARTFORD , START OF RELATIONSHIP: JAN 2, 2009     APPROXIMATE # OF HOURS PER MONTH: 1     APPROXIMATE # OF HOURS SPENT DURING REGULAR SECURITIES TRADING HOURS: .5....  2. INSURANCE POSITION: Financial Professional NATURE: Sole proprietor INVESTMENT RELATED: Yes NUMBER OF HOURS: 2 SECURITIES TRADING HOURS: 2 START DATE: 01/01/1994 ADDRESS: 462 plain st, marshfield MA 02050, United States DESCRIPTION: recommendation of insurance for clients needs  3. CENTINEL FINANCIAL GROUP, LLC. POSITION: Financial Representative NATURE: LLC INVESTMENT RELATED: Yes NUMBER OF HOURS: 5 SECURITIES TRADING HOURS: 5 START DATE: 04/12/2013 ADDRESS: 462 Plain Street, Marshfield MA 02050, United States DESCRIPTION: Investment Advisor"/>
+      </OthrBuss>
+      <DRPs/>
+    </Indvl>
+  </Indvls>
+</IAPDIndividualReport>
